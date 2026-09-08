@@ -1,8 +1,10 @@
 # DIKWP-MESH8.1 E2V81
 
+Created by Yucong Duan (段玉聪).
+
 ## Open Evidence-to-Value Commercialization and Paid-Pilot Studio
 
-**From evidence gaps to paid pilots; from open-source reputation to recurring revenue.**
+From evidence gaps to paid pilots; from open-source reputation to recurring revenue.
 
 E2V81 is a commercial front door for Yucong Duan's open-source portfolio. It does not promise that open source automatically monetizes. It converts attention into a disciplined pipeline:
 
